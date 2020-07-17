@@ -1,3 +1,4 @@
+console.log("Foi carregado")
 window.Mercadopago.setPublishableKey("TEST-6e3b5050-bb5c-456a-9ff8-a62b79d46b8c");
 window.Mercadopago.getIdentificationTypes();
 
